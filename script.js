@@ -429,8 +429,9 @@ console.log(s)
 
 // console.log(students.length)
 
-// console.log(students[4][1])
 
-// console.log(students)
 
-// console.log(typeof students)
+
+
+
+// console.log(typeof student)
